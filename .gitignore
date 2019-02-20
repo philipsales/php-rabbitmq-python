@@ -1,0 +1,5 @@
+.DS_Store
+/consumer/rabbitmq-env
+/producer/vendor
+/poc/producer/vendor
+/poc/consumer/rabbitmq-env
